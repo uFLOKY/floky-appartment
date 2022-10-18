@@ -14,8 +14,9 @@ Simple Apartment Script
 
 You need to trigger this event to initiate first menu
 
-
+```lua
 TriggerEvent('floky-appartment:client:menu')
+```
 
 
 INSTALLATION :
